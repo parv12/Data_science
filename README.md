@@ -1,1 +1,1 @@
-# Traffic Prediction 
+# Machine Learning and it's types 
